@@ -1,7 +1,7 @@
     // commented comment
     console.log('Hello World');
 
-    let firstName = 'kevin'; // string
+    let firstName = 'kevin'; // string literal
     const interestRate = .3; // number
     let isApproved = true; // boolean
     let lastName; // undefined
