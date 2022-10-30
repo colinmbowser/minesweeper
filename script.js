@@ -75,7 +75,7 @@ function checkGameEnd()
 
     if (lose)
     {
-        messageText.textContent = "LOSER!"
+        messageText.textContent = "YOU LOSE!"
         mineField.forEach(row => 
             {
                 row.forEach(tile => 

@@ -65,7 +65,6 @@ export function markTile(tile)
     else if (tile.status === TILE_STATUS.FLAGGED)
     {
         tile.status = TILE_STATUS.QUESTION;
-
         tile.element.textContent = "?"
     }
     else if (tile.status === TILE_STATUS.QUESTION)
