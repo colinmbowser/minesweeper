@@ -13,6 +13,7 @@ I used Visual Studio Code to create this program with javascript extension and t
 # Useful Websites
 
 * [Basic MineSweeper Tutorial](https://www.youtube.com/watch?v=kBMnD_aElCQ) Special Shout Out, very helpful tutorial in case you want to code this yourself.
+This video helped me learn javascript as well as how to program minesweeper
 * [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 # Future Work
