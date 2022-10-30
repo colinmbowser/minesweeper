@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program is a basic minesweeper program written in Javascript and minorly used HTML and CSS. This was the first time that I have coded in javascript and I enjoyed the language.
 
-{Provide a description the software that you wrote.}
-
-{Describe your purpose for writing this software.}
+This program was written because I really like minesweeper and it is no longer on my computer so I thought it would be fun to program the game myself, instead of downloading a new version of it.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
@@ -12,19 +10,14 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used Visual Studio Code to create this program with javascript extension and the live server extension.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Basic MineSweeper Tutorial](https://www.youtube.com/watch?v=kBMnD_aElCQ)
+* [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add an Easy, Medium and Hard button to change the difficulty at the beginning
+* Add a custom button to change the size and mine amount at the beginning
